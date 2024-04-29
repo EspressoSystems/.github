@@ -34,3 +34,5 @@ Closes #<ISSUE_NUMBER>
 <!-- [ ] Issue linked or PR description mentions why this change is necessary. -->
 <!-- [ ] PR description is clear enough for reviewers. -->
 <!-- [ ] If this is a draft it is marked as "draft".  -->
+
+<!-- To make changes to this template edit https://github.com/EspressoSystems/.github/blob/main/PULL_REQUEST_TEMPLATE.md -->
