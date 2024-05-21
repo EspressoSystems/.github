@@ -26,13 +26,14 @@ Closes #<ISSUE_NUMBER>
 <!-- * E.g. `just test` -->
 
 <!-- ### Things tested -->
-<!-- Anything that was manually tested (that it is not tested in CI). -->
+<!-- Anything that was manually tested (that is not tested in CI). -->
 <!-- E.g. building/running of docker containers. Changes to docker demo, ... -->
 <!-- Especially mention anything untested, with reasoning and link an issue to resolve this. -->
 
 <!-- Complete the following items before creating this PR -->
 <!-- [ ] Issue linked or PR description mentions why this change is necessary. -->
 <!-- [ ] PR description is clear enough for reviewers. -->
+<!-- [ ] Documentation for changes (additions) has been updated (added).  -->
 <!-- [ ] If this is a draft it is marked as "draft".  -->
 
 <!-- To make changes to this template edit https://github.com/EspressoSystems/.github/blob/main/PULL_REQUEST_TEMPLATE.md -->
