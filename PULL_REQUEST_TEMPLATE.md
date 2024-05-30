@@ -1,4 +1,5 @@
 Closes #<ISSUE_NUMBER>
+<!-- These comments should help create a useful PR message, please delete any remaining comments before opening the PR. -->
 <!-- If there is no issue number make sure to describe clearly *why* this PR is necessary. -->
 <!-- Mention open questions, remaining TODOs, if any -->
 
