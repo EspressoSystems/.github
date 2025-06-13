@@ -33,15 +33,16 @@ Closes #<ISSUE_NUMBER>
 <!-- E.g. building/running of docker containers. Changes to docker demo, ... -->
 <!-- Especially mention anything untested, with reasoning and link an issue to resolve this. -->
 
+<!-- Make sure it won't break backward compatibility -->
+<!-- * Try to keep changes additive: add new, optional methods, flags, or parameters instead of modifying or removing existing functionality. -->
+<!-- * If modification is necessary, it should either be: A clear bug fix, or Guarded by a config/feature flag.  -->
+<!-- * Follow Open Closed Principle and Interface Segregation Principle, clients should not be forced to depend on interfaces they do not use. -->
+
 <!-- Complete the following items before creating this PR -->
 <!-- [ ] Issue linked or PR description mentions why this change is necessary. -->
 <!-- [ ] PR description is clear enough for reviewers. -->
 <!-- [ ] Documentation for changes (additions) has been updated (added).  -->
 <!-- [ ] If this is a draft it is marked as "draft".  -->
-
-<!-- Make sure it won't break backward compatibility -->
-<!-- * Try to keep changes additive: add new, optional methods, flags, or parameters instead of modifying or removing existing functionality. -->
-<!-- * If modification is necessary, it should either be: A clear bug fix, or Guarded by a config/feature flag.  -->
-<!-- * Follow Open Closed Principle and Interface Segregation Principle, clients should not be forced to depend on interfaces they do not use. -->
+<!-- [ ] Make sure it won't break backward compatibility. -->
 
 <!-- To make changes to this template edit https://github.com/EspressoSystems/.github/blob/main/PULL_REQUEST_TEMPLATE_INTEGRATIONS.md -->
