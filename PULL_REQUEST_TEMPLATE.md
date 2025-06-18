@@ -38,7 +38,7 @@ Closes #<ISSUE_NUMBER>
 <!-- [ ] If this is a draft it is marked as "draft".  -->
 <!-- [ ] For integration projects, make sure it won't break backward compatibility. -->
 
-<!-- Details on maintain backward compatibility for integration projects -->
+<!-- Details on maintaining backward compatibility for integration projects: -->
 <!-- * Try to keep changes additive: add new, optional methods, flags, or parameters instead of modifying or removing existing functionality. -->
 <!-- * If modification is necessary, it should either be: A clear bug fix, or Guarded by a config/feature flag.  -->
 <!-- * Follow Open Closed Principle and Interface Segregation Principle, clients should not be forced to depend on interfaces they do not use. -->
