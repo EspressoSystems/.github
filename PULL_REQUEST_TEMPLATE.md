@@ -36,5 +36,11 @@ Closes #<ISSUE_NUMBER>
 <!-- [ ] PR description is clear enough for reviewers. -->
 <!-- [ ] Documentation for changes (additions) has been updated (added).  -->
 <!-- [ ] If this is a draft it is marked as "draft".  -->
+<!-- [ ] For integration projects, make sure it won't break backward compatibility. -->
+
+<!-- Details on maintain backward compatibility for integration projects -->
+<!-- * Try to keep changes additive: add new, optional methods, flags, or parameters instead of modifying or removing existing functionality. -->
+<!-- * If modification is necessary, it should either be: A clear bug fix, or Guarded by a config/feature flag.  -->
+<!-- * Follow Open Closed Principle and Interface Segregation Principle, clients should not be forced to depend on interfaces they do not use. -->
 
 <!-- To make changes to this template edit https://github.com/EspressoSystems/.github/blob/main/PULL_REQUEST_TEMPLATE.md -->
