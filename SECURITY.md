@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability, please report it to us t
 
 ## Reporting a Vulnerability
 
-Please report vulnerabilities by emailing: security@espresso.systems
+Please report vulnerabilities by emailing: security@espressosys.com
 
 Include as much of the following as possible:
 - a clear description of the issue
